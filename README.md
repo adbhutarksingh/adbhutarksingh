@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://freshsec.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzb97ynnn%2Fproduction%2Faf2348566b19d6081fb9206f8aedaf20690650e0-1400x935.webp%3Ffm%3Dpng%26q%3D50%26auto%3Dformat&w=3840&q=75"  />
 
 ###
 
@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adbhutarksingh/adbhutarksingh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adbhutarksingh/adbhutarksingh/output/snake.svg" alt="" />
 
 ###
