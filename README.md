@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! This is Adbhut. I'm a Java enthusiast, from India</h2>
+<h2 align="left">Hi ! This is Adbhut. I'm a Java enthusiast</h2>
 
 ###
 
